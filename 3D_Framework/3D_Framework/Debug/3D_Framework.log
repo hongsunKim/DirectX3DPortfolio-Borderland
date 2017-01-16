@@ -1,0 +1,509 @@
+﻿  stdafx.cpp
+  Water.cpp
+  UI_Hit.cpp
+  Ui_Bar.cpp
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\player_stat.h(60): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.h(33): warning C4091: 'typedef ': 변수를 선언하지 않으면 'cTerrain::VERTEX_Info' 왼쪽은 무시됩니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.h(12): warning C4005: 'GRAVITY_SPEED': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(14): note: 'GRAVITY_SPEED'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.h(13): warning C4005: 'AIR_JUMP_SPEED': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(15): note: 'AIR_JUMP_SPEED'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.h(14): warning C4005: 'ENEMY_MOVE_SPEED': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(16): note: 'ENEMY_MOVE_SPEED'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.h(15): warning C4005: 'ENEMY_AIR_ATT_MOVE_SPEED': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(17): note: 'ENEMY_AIR_ATT_MOVE_SPEED'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.h(17): warning C4005: 'AIR_ATT_DECISION_SPEED': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(19): note: 'AIR_ATT_DECISION_SPEED'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.h(19): warning C4005: 'ENEMY_JUMP_ATT_SUCCESS': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(21): note: 'ENEMY_JUMP_ATT_SUCCESS'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.h(20): warning C4005: 'ENEMY_JUMP_ATT_FAIL_Z': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(22): note: 'ENEMY_JUMP_ATT_FAIL_Z'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.h(21): warning C4005: 'ENEMY_JUMP_ATT_FAIL_X': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(23): note: 'ENEMY_JUMP_ATT_FAIL_X'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.h(23): warning C4005: 'ENEMY_BOUND_SIZE': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(25): note: 'ENEMY_BOUND_SIZE'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(121): warning C4244: '인수': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(121): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(152): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(153): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(154): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(155): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(250): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(267): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(268): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(271): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(287): warning C4244: '인수': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(298): warning C4244: '인수': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(298): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(343): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(364): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(364): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(426): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(433): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(434): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(437): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(451): warning C4244: '인수': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(451): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(461): warning C4244: '인수': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(461): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(507): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(514): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(528): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(566): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(571): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(572): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(575): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(590): warning C4244: '인수': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(590): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(602): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(624): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(656): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(656): warning C4244: '인수': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(664): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(691): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(719): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(735): warning C4244: '인수': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(749): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(769): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(774): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(775): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(785): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(790): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(791): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(801): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(806): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ui_bar.cpp(807): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  soundManager.cpp
+  sandEffect.cpp
+  MyUtil.cpp
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\myutil.cpp(290): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\myutil.cpp(402): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  ItemEffect.cpp
+  item.cpp
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\item.cpp(48): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\item.cpp(49): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\item.cpp(53): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\item.cpp(54): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\item.cpp(66): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\item.cpp(67): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+  GameOver.cpp
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\gameover.cpp(33): warning C4244: '인수': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\gameover.cpp(33): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\gameover.cpp(62): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  Font.cpp
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\player_stat.h(60): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\font.cpp(31): warning C4244: '인수': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\font.cpp(31): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\font.cpp(53): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\font.cpp(59): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\font.cpp(65): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\font.cpp(72): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\font.cpp(71): warning C4477: 'sprintf_s' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'char *'입니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\font.cpp(100): warning C4244: '인수': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\font.cpp(100): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\font.cpp(106): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\font.cpp(109): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\font.cpp(105): warning C4474: 'sprintf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\font.cpp(105): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+  evironmemtMesh.cpp
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\evironmemtmesh.cpp(28): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  enemyClass2.cpp
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\player_stat.h(60): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.h(33): warning C4091: 'typedef ': 변수를 선언하지 않으면 'cTerrain::VERTEX_Info' 왼쪽은 무시됩니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass2.cpp(17): warning C4316: 'cTerrain': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass2.cpp(65): warning C4316: 'cTransform': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass2.cpp(141): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass2.cpp(200): warning C4316: 'cTransform': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass2.cpp(225): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass2.cpp(231): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass2.cpp(232): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass2.cpp(233): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass2.cpp(470): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass2.cpp(484): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass2.cpp(486): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass2.cpp(490): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass2.cpp(540): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass2.cpp(636): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass2.cpp(483): warning C4474: 'sprintf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass2.cpp(483): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass2.cpp(786): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass2.cpp(793): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  enemyClass1.cpp
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\player_stat.h(60): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.h(33): warning C4091: 'typedef ': 변수를 선언하지 않으면 'cTerrain::VERTEX_Info' 왼쪽은 무시됩니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.cpp(17): warning C4316: 'cTerrain': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.cpp(65): warning C4316: 'cTransform': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.cpp(144): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.cpp(389): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.cpp(391): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.cpp(395): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.cpp(388): warning C4474: 'sprintf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.cpp(388): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.cpp(681): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.cpp(688): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Ending.cpp
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ending.cpp(50): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ending.cpp(61): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+  Effect.cpp
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\effect.cpp(201): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\effect.cpp(244): warning C4305: '인수': 'double'에서 'FLOAT'(으)로 잘립니다.
+  cXMesh_Static.cpp
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cxmesh_static.cpp(227): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cxmesh_static.cpp(280): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cxmesh_static.cpp(328): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cxmesh_static.cpp(591): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  cXMesh_Skinned.cpp
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cxmesh_skinned.cpp(87): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cxmesh_skinned.cpp(244): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cxmesh_skinned.cpp(304): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cxmesh_skinned.cpp(655): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  cXMesh.cpp
+  cTransform.cpp
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ctransform.cpp(1463): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ctransform.cpp(1464): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ctransform.cpp(1652): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ctransform.cpp(1680): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ctransform.cpp(1711): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ctransform.cpp(1728): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ctransform.cpp(1761): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ctransform.cpp(1762): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cTimeMgr.cpp
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  cScene_1.cpp
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.h(33): warning C4091: 'typedef ': 변수를 선언하지 않으면 'cTerrain::VERTEX_Info' 왼쪽은 무시됩니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\player_stat.h(60): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(14): warning C4005: 'GRAVITY_SPEED': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.h(12): note: 'GRAVITY_SPEED'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(15): warning C4005: 'AIR_JUMP_SPEED': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.h(13): note: 'AIR_JUMP_SPEED'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(16): warning C4005: 'ENEMY_MOVE_SPEED': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.h(14): note: 'ENEMY_MOVE_SPEED'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(17): warning C4005: 'ENEMY_AIR_ATT_MOVE_SPEED': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.h(15): note: 'ENEMY_AIR_ATT_MOVE_SPEED'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(19): warning C4005: 'AIR_ATT_DECISION_SPEED': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.h(17): note: 'AIR_ATT_DECISION_SPEED'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(21): warning C4005: 'ENEMY_JUMP_ATT_SUCCESS': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.h(19): note: 'ENEMY_JUMP_ATT_SUCCESS'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(22): warning C4005: 'ENEMY_JUMP_ATT_FAIL_Z': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.h(20): note: 'ENEMY_JUMP_ATT_FAIL_Z'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(23): warning C4005: 'ENEMY_JUMP_ATT_FAIL_X': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.h(21): note: 'ENEMY_JUMP_ATT_FAIL_X'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(25): warning C4005: 'ENEMY_BOUND_SIZE': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.h(23): note: 'ENEMY_BOUND_SIZE'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_1.cpp(30): warning C4316: 'cTerrain': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_1.cpp(47): warning C4316: 'enemyClass1': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_1.cpp(57): warning C4316: 'enemyClass2': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_1.cpp(67): warning C4316: 'bossClass': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_1.cpp(76): warning C4316: 'Ui_Bar': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_1.cpp(143): warning C4316: 'item': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_1.cpp(145): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_1.cpp(172): warning C4316: 'item': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_1.cpp(174): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_1.cpp(200): warning C4316: 'item': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_1.cpp(202): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_1.cpp(208): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_1.cpp(211): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_1.cpp(220): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_1.cpp(223): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_1.cpp(232): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_1.cpp(235): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_1.cpp(245): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_1.cpp(291): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_1.cpp(297): warning C4316: 'cTransform': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  cTerrain.cpp
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.h(33): warning C4091: 'typedef ': 변수를 선언하지 않으면 'cTerrain::VERTEX_Info' 왼쪽은 무시됩니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(48): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(49): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(50): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(51): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(53): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(54): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(55): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(56): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(58): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(59): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(60): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(61): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(63): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(64): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(65): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(66): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(271): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(328): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(548): warning C4244: '인수': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(565): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(748): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(749): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(775): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(776): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(859): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(861): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(934): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(1178): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(1185): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(1193): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(1202): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(1211): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(1225): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(1228): warning C4800: 'double': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(1243): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(1253): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(1259): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(1266): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(1294): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(1301): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(1307): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(1313): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(1318): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(1323): warning C4244: '=': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(1327): warning C4800: 'double': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(1331): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cStart_Scene.cpp
+  cSpriteManager.cpp
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cspritemanager.cpp(120): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cspritemanager.cpp(121): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cspritemanager.cpp(123): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cspritemanager.cpp(124): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cspritemanager.cpp(141): warning C4244: '인수': 'LONG'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cspritemanager.cpp(167): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cspritemanager.cpp(168): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cspritemanager.cpp(183): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cspritemanager.cpp(184): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cspritemanager.cpp(185): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cspritemanager.cpp(186): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cspritemanager.cpp(188): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cspritemanager.cpp(189): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cspritemanager.cpp(190): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cspritemanager.cpp(191): warning C4244: '초기화 중': 'LONG'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cspritemanager.cpp(194): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cspritemanager.cpp(194): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cspritemanager.cpp(195): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cspritemanager.cpp(195): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cspritemanager.cpp(196): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cspritemanager.cpp(196): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cspritemanager.cpp(197): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cspritemanager.cpp(197): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cspritemanager.cpp(198): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cspritemanager.cpp(198): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cspritemanager.cpp(199): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cspritemanager.cpp(199): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cspritemanager.cpp(200): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cspritemanager.cpp(200): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cspritemanager.cpp(201): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cspritemanager.cpp(201): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cspritemanager.cpp(202): warning C4838: 'float'에서 'LONG'(으)로의 변환에는 축소 변환이 필요합니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cspritemanager.cpp(202): warning C4244: '초기화 중': 'float'에서 'LONG'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cSkinnedAnimation.cpp
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cskinnedanimation.cpp(194): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  cSingletonBase.cpp
+  cSetBoundObject.cpp
+  cScene_Mgr.cpp
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_mgr.cpp(109): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  cScene_2.cpp
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.h(33): warning C4091: 'typedef ': 변수를 선언하지 않으면 'cTerrain::VERTEX_Info' 왼쪽은 무시됩니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\player_stat.h(60): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(14): warning C4005: 'GRAVITY_SPEED': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.h(12): note: 'GRAVITY_SPEED'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(15): warning C4005: 'AIR_JUMP_SPEED': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.h(13): note: 'AIR_JUMP_SPEED'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(16): warning C4005: 'ENEMY_MOVE_SPEED': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.h(14): note: 'ENEMY_MOVE_SPEED'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(17): warning C4005: 'ENEMY_AIR_ATT_MOVE_SPEED': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.h(15): note: 'ENEMY_AIR_ATT_MOVE_SPEED'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(19): warning C4005: 'AIR_ATT_DECISION_SPEED': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.h(17): note: 'AIR_ATT_DECISION_SPEED'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(21): warning C4005: 'ENEMY_JUMP_ATT_SUCCESS': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.h(19): note: 'ENEMY_JUMP_ATT_SUCCESS'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(22): warning C4005: 'ENEMY_JUMP_ATT_FAIL_Z': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.h(20): note: 'ENEMY_JUMP_ATT_FAIL_Z'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(23): warning C4005: 'ENEMY_JUMP_ATT_FAIL_X': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.h(21): note: 'ENEMY_JUMP_ATT_FAIL_X'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(25): warning C4005: 'ENEMY_BOUND_SIZE': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass1.h(23): note: 'ENEMY_BOUND_SIZE'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_2.cpp(28): warning C4316: 'cTerrain': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_2.cpp(43): warning C4316: 'enemyClass1': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_2.cpp(53): warning C4316: 'enemyClass2': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_2.cpp(63): warning C4316: 'bossClass': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_2.cpp(72): warning C4316: 'Ui_Bar': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_2.cpp(132): warning C4316: 'item': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_2.cpp(134): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_2.cpp(164): warning C4316: 'item': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_2.cpp(166): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_2.cpp(196): warning C4316: 'item': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_2.cpp(198): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_2.cpp(204): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_2.cpp(207): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_2.cpp(216): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_2.cpp(219): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_2.cpp(228): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_2.cpp(231): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_2.cpp(242): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene_2.cpp(279): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  cSceneChangeEffectUpDown.cpp
+  cSceneChangeEffect.cpp
+  cScene.cpp
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.h(33): warning C4091: 'typedef ': 변수를 선언하지 않으면 'cTerrain::VERTEX_Info' 왼쪽은 무시됩니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene.cpp(9): warning C4316: 'cCamera': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene.cpp(10): warning C4316: 'cCamera': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene.cpp(11): warning C4316: 'cCamera': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene.cpp(17): warning C4316: 'cCamera': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene.cpp(163): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene.cpp(215): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cscene.cpp(236): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  cResourceMgr_XStaticMesh.cpp
+  cResourceMgr_XSkinnedMesh.cpp
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cresourcemgr_xskinnedmesh.cpp(16): warning C4316: 'cXMesh_Skinned': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  cResourceMgr_Texture.cpp
+  cResourceMgr_ShaderFX.cpp
+  cResourceMgr.cpp
+  cQuadTree.cpp
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.h(33): warning C4091: 'typedef ': 변수를 선언하지 않으면 'cTerrain::VERTEX_Info' 왼쪽은 무시됩니다.
+  cQuadParticleEmitter.cpp
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cquadparticleemitter.cpp(48): warning C4316: 'cParticleQuad': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cquadparticleemitter.cpp(67): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cquadparticleemitter.cpp(72): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cquadparticleemitter.cpp(142): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cquadparticleemitter.cpp(157): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cquadparticleemitter.cpp(172): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cquadparticleemitter.cpp(175): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cquadparticleemitter.cpp(199): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cquadparticleemitter.cpp(213): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  cPlayerPlane.cpp
+  코드를 생성하고 있습니다...
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cskinnedanimation.cpp(53): warning C4715: 'cSkinnedAnimation::Init': 모든 제어 경로에서 값을 반환하지는 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.cpp(345): warning C4715: 'cTerrain::Init_Load': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  컴파일하고 있습니다...
+  cPlayer.cpp
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\player_stat.h(60): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.h(33): warning C4091: 'typedef ': 변수를 선언하지 않으면 'cTerrain::VERTEX_Info' 왼쪽은 무시됩니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(14): warning C4005: 'GRAVITY_SPEED': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass2.h(15): note: 'GRAVITY_SPEED'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(15): warning C4005: 'AIR_JUMP_SPEED': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass2.h(16): note: 'AIR_JUMP_SPEED'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(16): warning C4005: 'ENEMY_MOVE_SPEED': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass2.h(17): note: 'ENEMY_MOVE_SPEED'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(17): warning C4005: 'ENEMY_AIR_ATT_MOVE_SPEED': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass2.h(18): note: 'ENEMY_AIR_ATT_MOVE_SPEED'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(19): warning C4005: 'AIR_ATT_DECISION_SPEED': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass2.h(20): note: 'AIR_ATT_DECISION_SPEED'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(21): warning C4005: 'ENEMY_JUMP_ATT_SUCCESS': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass2.h(22): note: 'ENEMY_JUMP_ATT_SUCCESS'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(22): warning C4005: 'ENEMY_JUMP_ATT_FAIL_Z': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass2.h(23): note: 'ENEMY_JUMP_ATT_FAIL_Z'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(23): warning C4005: 'ENEMY_JUMP_ATT_FAIL_X': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass2.h(24): note: 'ENEMY_JUMP_ATT_FAIL_X'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.h(25): warning C4005: 'ENEMY_BOUND_SIZE': 매크로 재정의
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\enemyclass2.h(26): note: 'ENEMY_BOUND_SIZE'의 이전 정의를 참조하십시오.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(32): warning C4316: 'cXMesh_Skinned': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(45): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(54): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(63): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(72): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(81): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(90): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(99): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(102): warning C4316: 'cCamera': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(104): warning C4316: 'cTransform': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(106): warning C4316: 'cTransform': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(110): warning C4316: 'cTransform': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(112): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(116): warning C4316: 'cTransform': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(142): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(143): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(144): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(159): warning C4316: 'cTransform': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(207): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(213): warning C4316: 'cTransform': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(215): warning C4305: '인수': 'double'에서 'FLOAT'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(272): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(272): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(529): warning C4244: '인수': 'double'에서 'FLOAT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(578): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(580): warning C4305: '=': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(611): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(749): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(1222): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(1230): warning C4244: '+=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(1237): warning C4305: '-=': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(1240): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(1278): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(1294): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cplayer.cpp(1310): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cPhysicManager.cpp
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cphysicmanager.cpp(338): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cphysicmanager.cpp(1157): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cphysicmanager.cpp(1188): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cParticleQuad.cpp
+  cParticleEmitter.cpp
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cparticleemitter.cpp(39): warning C4316: 'cParticle': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cparticleemitter.cpp(56): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cparticleemitter.cpp(63): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cparticleemitter.cpp(123): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cparticleemitter.cpp(149): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  cParticle.cpp
+  cNode.cpp
+  cMainGame.cpp
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cmaingame.cpp(105): warning C4244: '인수': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cLight_Point.cpp
+  cLight_Direction.cpp
+  cLight.cpp
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\clight.cpp(8): warning C4316: 'cTransform': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  cKeyMgr.cpp
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\ckeymgr.cpp(29): warning C4800: 'int': 'true' 또는 'false'로 bool 값을 강제하고 있습니다(성능 경고).
+  cImage.cpp
+  cGizmoManager.cpp
+  cFrustum.cpp
+  cEnemyPlane.cpp
+  cDXFontManager.cpp
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cdxfontmanager.cpp(31): warning C4244: '인수': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cdxfontmanager.cpp(31): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cdxfontmanager.cpp(73): warning C4244: '인수': 'float'에서 'UINT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cdxfontmanager.cpp(73): warning C4244: '인수': 'float'에서 'INT'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  cCamera.cpp
+  cBoundSphere.cpp
+  cBoundBox.cpp
+  cBaseObject.cpp
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cbaseobject.cpp(11): warning C4316: 'cTransform': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cbaseobject.cpp(13): warning C4316: 'cCamera': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  코드를 생성하고 있습니다...
+  컴파일하고 있습니다...
+  bossClass.cpp
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\player_stat.h(60): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\cterrain.h(33): warning C4091: 'typedef ': 변수를 선언하지 않으면 'cTerrain::VERTEX_Info' 왼쪽은 무시됩니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.cpp(18): warning C4316: 'cTerrain': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.cpp(77): warning C4316: 'cTransform': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.cpp(117): warning C4305: '인수': 'double'에서 'FLOAT'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.cpp(194): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.cpp(264): warning C4316: 'cTransform': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.cpp(294): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.cpp(504): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.cpp(532): warning C4244: '인수': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.cpp(534): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.cpp(538): warning C4244: '인수': 'FLOAT'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.cpp(531): warning C4474: 'sprintf_s' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.cpp(531): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 0개 필요하지만 1개가 제공되었습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.cpp(737): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.cpp(739): warning C4305: '+=': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.cpp(802): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.cpp(803): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.cpp(813): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.cpp(814): warning C4305: '인수': 'double'에서 'float'(으)로 잘립니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.cpp(826): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bossclass.cpp(833): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  BoneHierachy.cpp
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\bonehierachy.cpp(38): warning C4316: 'BONE': 힙에 할당된 개체가 16에 맞추어져 있지 않을 수도 있습니다
+  AStarY.cpp
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\astary.cpp(182): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\astary.cpp(198): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\astary.cpp(211): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\astary.cpp(225): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\astary.cpp(234): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\astary.cpp(283): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\astary.cpp(284): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\astary.cpp(290): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+d:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3d_framework\3d_framework\astary.cpp(291): warning C4244: '=': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  3D_Framework.cpp
+  코드를 생성하고 있습니다...
+  3D_Framework.vcxproj -> D:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3D_Framework\Debug\3D_Framework.exe
+  3D_Framework.vcxproj -> D:\다운로드\새 폴더\보더랜드_포폴 ver 0.075\3D_Framework\Debug\3D_Framework.pdb (Full PDB)

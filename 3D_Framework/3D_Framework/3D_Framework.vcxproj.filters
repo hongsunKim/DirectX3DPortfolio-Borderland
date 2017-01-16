@@ -1,0 +1,529 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="소스 파일">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="헤더 파일">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="리소스 파일">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Managers">
+      <UniqueIdentifier>{ccb6c4df-08f5-4698-a1be-e761cc30d134}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BaseObject">
+      <UniqueIdentifier>{38d135dd-8ab6-4f2f-963c-2e50c29a8783}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Scenes">
+      <UniqueIdentifier>{e6586b2c-061b-4cb9-9999-39673334f54f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="맵">
+      <UniqueIdentifier>{a5723fad-7b7e-4089-818e-c80c0c615654}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{97e9f0c3-6e2a-44d0-a4d7-7e637fc450c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="조명">
+      <UniqueIdentifier>{a81e9223-0a3d-46f6-8002-8a495524f804}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="플레이어">
+      <UniqueIdentifier>{3b6ab8d5-e8e4-45b8-a59c-a18a7aed9b4c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="에너미">
+      <UniqueIdentifier>{6c668fe3-3b0b-4a19-8f89-2732c5360d24}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="UI">
+      <UniqueIdentifier>{ad191cfc-85da-4586-9063-26cd89dbd5a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X파일">
+      <UniqueIdentifier>{8186f9c7-dd40-4892-b985-e225b34fc2e9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="X파일\애니메이션">
+      <UniqueIdentifier>{70d2baee-21b2-460d-87c2-2ec95ec03c57}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="카메라">
+      <UniqueIdentifier>{83b7df22-a743-4e74-a9fd-9ce2b947ca13}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="씬체인지">
+      <UniqueIdentifier>{663dae44-ddf7-40d2-9416-eef94f27e987}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Managers\리소스매니져">
+      <UniqueIdentifier>{feb1a0a4-c894-459a-9835-cd10c8cdd34a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Managers\기즈모매니져">
+      <UniqueIdentifier>{46ce27bb-67d0-4f68-aa3b-c38583648f4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Managers\DX폰트매니져">
+      <UniqueIdentifier>{18ed19fd-6435-4fd5-b16d-31e1aff57a76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Managers\키매니져">
+      <UniqueIdentifier>{a7b02f4d-391f-4da2-8395-7d5ad284320d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Managers\타임매니져">
+      <UniqueIdentifier>{c746b5a1-59f2-4e74-926a-463fcc0b3d14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Managers\스프라이트매니져">
+      <UniqueIdentifier>{caafba6c-3a43-4658-aae5-60d0d5b4e9bf}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\트랜스폼">
+      <UniqueIdentifier>{e6b48003-9752-43d2-959d-0f5f863ce9a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common\프로스텀">
+      <UniqueIdentifier>{8215dad1-665f-4600-b3f7-42349aeabaf8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="유틸">
+      <UniqueIdentifier>{a2ea38d6-bdcc-442f-ba65-67c0760438d5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="사운드">
+      <UniqueIdentifier>{78185da0-2ea4-490a-a18c-2093f60ba89f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BaseObject\바운드박스,스피어">
+      <UniqueIdentifier>{b84182ed-0bfb-4af3-a9dc-0f1a2e0d612c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="파티클">
+      <UniqueIdentifier>{25b0efe7-09c0-4203-93d2-662ca35b8899}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="파티클\Effect">
+      <UniqueIdentifier>{27119fcc-d8b5-4414-ba78-1509b565d970}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="맵\물">
+      <UniqueIdentifier>{d23eec02-c14b-4e46-8f39-abe18845ac2b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Managers\Physic매니져">
+      <UniqueIdentifier>{2bb4bd01-08d8-414a-974b-ca3f0c95df6d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="맵\환경구">
+      <UniqueIdentifier>{85cac2d7-5ba2-4e46-b1ae-8f37a0a6d6e8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="플레이어\아이템">
+      <UniqueIdentifier>{9ab5ac04-eb4c-475a-b5e9-06a859c4c590}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="stdafx.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="3D_Framework.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="cScene.h">
+      <Filter>Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="cBaseObject.h">
+      <Filter>BaseObject</Filter>
+    </ClInclude>
+    <ClInclude Include="cSetBoundObject.h">
+      <Filter>BaseObject</Filter>
+    </ClInclude>
+    <ClInclude Include="cSingletonBase.h">
+      <Filter>Managers</Filter>
+    </ClInclude>
+    <ClInclude Include="cMainGame.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="cImage.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="cTerrain.h">
+      <Filter>맵</Filter>
+    </ClInclude>
+    <ClInclude Include="cParticleEmitter.h">
+      <Filter>파티클</Filter>
+    </ClInclude>
+    <ClInclude Include="cParticle.h">
+      <Filter>파티클</Filter>
+    </ClInclude>
+    <ClInclude Include="cQuadParticleEmitter.h">
+      <Filter>파티클</Filter>
+    </ClInclude>
+    <ClInclude Include="cQuadTree.h">
+      <Filter>맵</Filter>
+    </ClInclude>
+    <ClInclude Include="cLight.h">
+      <Filter>조명</Filter>
+    </ClInclude>
+    <ClInclude Include="cLight_Direction.h">
+      <Filter>조명</Filter>
+    </ClInclude>
+    <ClInclude Include="cLight_Point.h">
+      <Filter>조명</Filter>
+    </ClInclude>
+    <ClInclude Include="cParticleQuad.h">
+      <Filter>파티클</Filter>
+    </ClInclude>
+    <ClInclude Include="cBoundBox.h">
+      <Filter>BaseObject\바운드박스,스피어</Filter>
+    </ClInclude>
+    <ClInclude Include="cBoundSphere.h">
+      <Filter>BaseObject\바운드박스,스피어</Filter>
+    </ClInclude>
+    <ClInclude Include="cXMesh.h">
+      <Filter>X파일</Filter>
+    </ClInclude>
+    <ClInclude Include="cXMesh_Static.h">
+      <Filter>X파일</Filter>
+    </ClInclude>
+    <ClInclude Include="BoneHierachy.h">
+      <Filter>X파일\애니메이션</Filter>
+    </ClInclude>
+    <ClInclude Include="cSkinnedAnimation.h">
+      <Filter>X파일\애니메이션</Filter>
+    </ClInclude>
+    <ClInclude Include="cCamera.h">
+      <Filter>카메라</Filter>
+    </ClInclude>
+    <ClInclude Include="cSceneChangeEffect.h">
+      <Filter>씬체인지</Filter>
+    </ClInclude>
+    <ClInclude Include="cSceneChangeEffectUpDown.h">
+      <Filter>씬체인지</Filter>
+    </ClInclude>
+    <ClInclude Include="cResourceMgr.h">
+      <Filter>Managers\리소스매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="cResourceMgr_ShaderFX.h">
+      <Filter>Managers\리소스매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="cResourceMgr_Texture.h">
+      <Filter>Managers\리소스매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="cResourceMgr_XSkinnedMesh.h">
+      <Filter>Managers\리소스매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="cResourceMgr_XStaticMesh.h">
+      <Filter>Managers\리소스매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="cGizmoManager.h">
+      <Filter>Managers\기즈모매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="cDXFontManager.h">
+      <Filter>Managers\DX폰트매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="cKeyMgr.h">
+      <Filter>Managers\키매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="cPhysicManager.h">
+      <Filter>Managers\Physic매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="cScene_Mgr.h">
+      <Filter>씬체인지</Filter>
+    </ClInclude>
+    <ClInclude Include="cTimeMgr.h">
+      <Filter>Managers\타임매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="cSpriteManager.h">
+      <Filter>Managers\스프라이트매니져</Filter>
+    </ClInclude>
+    <ClInclude Include="cTransform.h">
+      <Filter>Common\트랜스폼</Filter>
+    </ClInclude>
+    <ClInclude Include="cFrustum.h">
+      <Filter>Common\프로스텀</Filter>
+    </ClInclude>
+    <ClInclude Include="cXMesh_Skinned.h">
+      <Filter>X파일\애니메이션</Filter>
+    </ClInclude>
+    <ClInclude Include="MyUtil.h">
+      <Filter>유틸</Filter>
+    </ClInclude>
+    <ClInclude Include="cEnemyPlane.h">
+      <Filter>BaseObject\바운드박스,스피어</Filter>
+    </ClInclude>
+    <ClInclude Include="cPlayerPlane.h">
+      <Filter>BaseObject\바운드박스,스피어</Filter>
+    </ClInclude>
+    <ClInclude Include="enemyClass1.h">
+      <Filter>에너미</Filter>
+    </ClInclude>
+    <ClInclude Include="enemyH.h">
+      <Filter>에너미</Filter>
+    </ClInclude>
+    <ClInclude Include="cPlayer.h">
+      <Filter>플레이어</Filter>
+    </ClInclude>
+    <ClInclude Include="enemyClass2.h">
+      <Filter>에너미</Filter>
+    </ClInclude>
+    <ClInclude Include="Ui_Bar.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="UI_Hit.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="bossClass.h">
+      <Filter>에너미</Filter>
+    </ClInclude>
+    <ClInclude Include="cStart_Scene.h">
+      <Filter>Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="soundManager.h">
+      <Filter>사운드</Filter>
+    </ClInclude>
+    <ClInclude Include="evironmemtMesh.h">
+      <Filter>맵\환경구</Filter>
+    </ClInclude>
+    <ClInclude Include="cScene_1.h">
+      <Filter>Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="cScene_2.h">
+      <Filter>Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="sandEffect.h">
+      <Filter>파티클\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="Effect.h">
+      <Filter>파티클\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="item.h">
+      <Filter>플레이어\아이템</Filter>
+    </ClInclude>
+    <ClInclude Include="cNode.h">
+      <Filter>맵</Filter>
+    </ClInclude>
+    <ClInclude Include="AStarY.h">
+      <Filter>맵</Filter>
+    </ClInclude>
+    <ClInclude Include="Water.h">
+      <Filter>맵\물</Filter>
+    </ClInclude>
+    <ClInclude Include="Font.h">
+      <Filter>UI</Filter>
+    </ClInclude>
+    <ClInclude Include="ItemEffect.h">
+      <Filter>파티클\Effect</Filter>
+    </ClInclude>
+    <ClInclude Include="GameOver.h">
+      <Filter>Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="Ending.h">
+      <Filter>Scenes</Filter>
+    </ClInclude>
+    <ClInclude Include="Player_Stat.h">
+      <Filter>플레이어</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="3D_Framework.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="cImage.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="cMainGame.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="cScene.cpp">
+      <Filter>Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="cBaseObject.cpp">
+      <Filter>BaseObject</Filter>
+    </ClCompile>
+    <ClCompile Include="cSetBoundObject.cpp">
+      <Filter>BaseObject</Filter>
+    </ClCompile>
+    <ClCompile Include="cSingletonBase.cpp">
+      <Filter>Managers</Filter>
+    </ClCompile>
+    <ClCompile Include="cTerrain.cpp">
+      <Filter>맵</Filter>
+    </ClCompile>
+    <ClCompile Include="cParticleQuad.cpp">
+      <Filter>파티클</Filter>
+    </ClCompile>
+    <ClCompile Include="cParticleEmitter.cpp">
+      <Filter>파티클</Filter>
+    </ClCompile>
+    <ClCompile Include="cParticle.cpp">
+      <Filter>파티클</Filter>
+    </ClCompile>
+    <ClCompile Include="cQuadParticleEmitter.cpp">
+      <Filter>파티클</Filter>
+    </ClCompile>
+    <ClCompile Include="cQuadTree.cpp">
+      <Filter>맵</Filter>
+    </ClCompile>
+    <ClCompile Include="cLight.cpp">
+      <Filter>조명</Filter>
+    </ClCompile>
+    <ClCompile Include="cLight_Direction.cpp">
+      <Filter>조명</Filter>
+    </ClCompile>
+    <ClCompile Include="cLight_Point.cpp">
+      <Filter>조명</Filter>
+    </ClCompile>
+    <ClCompile Include="cBoundBox.cpp">
+      <Filter>BaseObject\바운드박스,스피어</Filter>
+    </ClCompile>
+    <ClCompile Include="cBoundSphere.cpp">
+      <Filter>BaseObject\바운드박스,스피어</Filter>
+    </ClCompile>
+    <ClCompile Include="cXMesh.cpp">
+      <Filter>X파일</Filter>
+    </ClCompile>
+    <ClCompile Include="cXMesh_Static.cpp">
+      <Filter>X파일</Filter>
+    </ClCompile>
+    <ClCompile Include="BoneHierachy.cpp">
+      <Filter>X파일\애니메이션</Filter>
+    </ClCompile>
+    <ClCompile Include="cSkinnedAnimation.cpp">
+      <Filter>X파일\애니메이션</Filter>
+    </ClCompile>
+    <ClCompile Include="cCamera.cpp">
+      <Filter>카메라</Filter>
+    </ClCompile>
+    <ClCompile Include="cSceneChangeEffect.cpp">
+      <Filter>씬체인지</Filter>
+    </ClCompile>
+    <ClCompile Include="cSceneChangeEffectUpDown.cpp">
+      <Filter>씬체인지</Filter>
+    </ClCompile>
+    <ClCompile Include="cResourceMgr.cpp">
+      <Filter>Managers\리소스매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="cResourceMgr_ShaderFX.cpp">
+      <Filter>Managers\리소스매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="cResourceMgr_Texture.cpp">
+      <Filter>Managers\리소스매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="cResourceMgr_XSkinnedMesh.cpp">
+      <Filter>Managers\리소스매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="cResourceMgr_XStaticMesh.cpp">
+      <Filter>Managers\리소스매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="cGizmoManager.cpp">
+      <Filter>Managers\기즈모매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="cDXFontManager.cpp">
+      <Filter>Managers\DX폰트매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="cKeyMgr.cpp">
+      <Filter>Managers\키매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="cPhysicManager.cpp">
+      <Filter>Managers\Physic매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="cScene_Mgr.cpp">
+      <Filter>씬체인지</Filter>
+    </ClCompile>
+    <ClCompile Include="cTimeMgr.cpp">
+      <Filter>Managers\타임매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="cSpriteManager.cpp">
+      <Filter>Managers\스프라이트매니져</Filter>
+    </ClCompile>
+    <ClCompile Include="cTransform.cpp">
+      <Filter>Common\트랜스폼</Filter>
+    </ClCompile>
+    <ClCompile Include="cFrustum.cpp">
+      <Filter>Common\프로스텀</Filter>
+    </ClCompile>
+    <ClCompile Include="cXMesh_Skinned.cpp">
+      <Filter>X파일\애니메이션</Filter>
+    </ClCompile>
+    <ClCompile Include="MyUtil.cpp">
+      <Filter>유틸</Filter>
+    </ClCompile>
+    <ClCompile Include="cEnemyPlane.cpp">
+      <Filter>BaseObject\바운드박스,스피어</Filter>
+    </ClCompile>
+    <ClCompile Include="cPlayerPlane.cpp">
+      <Filter>BaseObject\바운드박스,스피어</Filter>
+    </ClCompile>
+    <ClCompile Include="enemyClass1.cpp">
+      <Filter>에너미</Filter>
+    </ClCompile>
+    <ClCompile Include="cPlayer.cpp">
+      <Filter>플레이어</Filter>
+    </ClCompile>
+    <ClCompile Include="enemyClass2.cpp">
+      <Filter>에너미</Filter>
+    </ClCompile>
+    <ClCompile Include="Ui_Bar.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="UI_Hit.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="bossClass.cpp">
+      <Filter>에너미</Filter>
+    </ClCompile>
+    <ClCompile Include="cStart_Scene.cpp">
+      <Filter>Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="soundManager.cpp">
+      <Filter>사운드</Filter>
+    </ClCompile>
+    <ClCompile Include="evironmemtMesh.cpp">
+      <Filter>맵\환경구</Filter>
+    </ClCompile>
+    <ClCompile Include="cScene_1.cpp">
+      <Filter>Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="cScene_2.cpp">
+      <Filter>Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="sandEffect.cpp">
+      <Filter>파티클\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="Effect.cpp">
+      <Filter>파티클\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="item.cpp">
+      <Filter>플레이어\아이템</Filter>
+    </ClCompile>
+    <ClCompile Include="cNode.cpp">
+      <Filter>맵</Filter>
+    </ClCompile>
+    <ClCompile Include="AStarY.cpp">
+      <Filter>맵</Filter>
+    </ClCompile>
+    <ClCompile Include="Water.cpp">
+      <Filter>맵\물</Filter>
+    </ClCompile>
+    <ClCompile Include="Font.cpp">
+      <Filter>UI</Filter>
+    </ClCompile>
+    <ClCompile Include="ItemEffect.cpp">
+      <Filter>파티클\Effect</Filter>
+    </ClCompile>
+    <ClCompile Include="GameOver.cpp">
+      <Filter>Scenes</Filter>
+    </ClCompile>
+    <ClCompile Include="Ending.cpp">
+      <Filter>Scenes</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="3D_Framework.rc">
+      <Filter>리소스 파일</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+    <Image Include="3D_Framework.ico">
+      <Filter>리소스 파일</Filter>
+    </Image>
+  </ItemGroup>
+</Project>
